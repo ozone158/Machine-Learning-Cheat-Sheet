@@ -1,6 +1,6 @@
 # MLcheatsheet
 
-Quick-reference cheat sheets for writing machine-learning pseudocode efficiently. Each file states symbols, tensor shapes, math, and update rules explicitly so you can translate directly into code.
+Obviously thanks to vibe coding, learning to write good pseudo code is way more important than learning to write actual code, so I made this for referencing and learning. 
 
 ## Cheat Sheets
 
