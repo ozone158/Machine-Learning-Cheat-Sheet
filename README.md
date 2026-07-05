@@ -1,6 +1,6 @@
 # Machine Learning Cheat Sheet
 
-Obviously nowadays thanks to vibe codeing, writing good pseudo code is way more important than writing good code. So I made this for learning and referencing
+Obviously nowadays thanks to vibe coding, writing good pseudo code is way more important than writing good code. So I made this for learning and referencing
 
 ## Cheat Sheets
 
