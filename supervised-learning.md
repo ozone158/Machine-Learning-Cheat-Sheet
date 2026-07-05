@@ -215,7 +215,7 @@ $$R^2 = 1 - \frac{\sum_{i}(y_i - \hat{y}_i)^2}{\sum_{i}(y_i - \bar{y})^2}$$
 
 **[Accuracy](#accuracy)**
 
-$$\text{Accuracy} = \frac{\text{\# correct}}{n}$$
+$$\text{Accuracy} = \frac{N_{\text{correct}}}{n}$$
 
 **[Precision](#precision)**
 
@@ -1230,7 +1230,7 @@ Click any term below, or follow links throughout the cheat sheet.
 
 Overall fraction of predictions that match the true label. Misleading when [classes are imbalanced](#class-imbalance) — a model predicting only the majority class can score high accuracy while failing on rare classes.
 
-$$\text{Accuracy} = \frac{\text{\# correct}}{n}$$
+$$\text{Accuracy} = \frac{N_{\text{correct}}}{n}$$
 
 <a id="artifact"></a>
 ### Artifact
