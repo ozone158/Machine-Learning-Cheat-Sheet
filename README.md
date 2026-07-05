@@ -1,6 +1,6 @@
 # Machine Learning Cheat Sheet
 
-Quick-reference cheat sheets for writing pseudocode efficiently. Each file covers model selection, lifecycle, foldable algorithm details (a–g), and a linked dictionary.
+Obviously nowadays thanks to vibe codeing, writing good pseudo code is way more important than writing good code. So I made this for learning and referencing
 
 ## Cheat Sheets
 
